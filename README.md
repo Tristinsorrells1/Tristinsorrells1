@@ -1,6 +1,6 @@
 ### Nice to meet you! I'm Tristin.
 
-<p align"center">As a developer, my education in health sciences enables me to understand the unique needs of individuals with a wide range of impairments and therefore anticipate their needs as users. While channeling my empathy and enthusiasm for driving improvement, I aspire to build inclusive websites with user-friendly and empathetic designs that cater to the needs of all users.</p>
+<p align"center">As a developer, my education in health sciences enables me to understand the unique needs of individuals with a wide range of impairments and therefore anticipate their needs as users. While channeling my empathy and enthusiasm for driving improvement, I aspire to build inclusive websites with user-friendly and empathetic designs that cater to the needs of all users. You can find my contact information, résumé, and portfolio below. </p>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tristinsorrells1&show_icons=true&theme=radical" />
@@ -28,6 +28,12 @@
   </a>
   <a href="mailto: tristinsorrells1@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://terminal.turing.edu/profiles/1686">
+    <img src="https://img.shields.io/badge/-Portfolio-8ab9f1" height="28" width="100">
+  </a>
+  <a href="https://terminal.turing.edu/profiles/1686">
+    <img src="https://img.shields.io/badge/-Résumé-fc6c85" height="28" width="100">
   </a>
   
     
