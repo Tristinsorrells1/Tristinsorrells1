@@ -32,7 +32,7 @@
   <a href="https://terminal.turing.edu/profiles/1686">
     <img src="https://img.shields.io/badge/-Portfolio-8ab9f1" height="28" width="100">
   </a>
-  <a href="https://terminal.turing.edu/profiles/1686">
+  <a href="https://docs.google.com/document/d/1v7xxhiCrBL88ltmdnFdxqct-0V0ABikoqbAcsEzPbRY/edit">
     <img src="https://img.shields.io/badge/-Résumé-fc6c85" height="28" width="100">
   </a>
   
